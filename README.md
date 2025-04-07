@@ -26,7 +26,7 @@ En el archivo **requirements.txt** se listan las dependencias necesarias. Asegú
 
 ## Instalación
 
-1. **Clona** este repositorio en tu máquina local.
+1. [**Clona** este repositorio](https://github.com/mikemayac/Image-Filter-Application-Mosaics) en tu máquina local.
 2. Crea y activa un **entorno virtual**:
    ```bash
    python -m venv venv
